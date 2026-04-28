@@ -1,2 +1,3 @@
 # project1
 A modern and responsive restaurant website built using front-end technologies, designed to showcase menu items, ambiance, and provide a smooth user experience.
+....
